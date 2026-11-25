@@ -25,6 +25,7 @@ Certifique-se de ter o compilador `gcc` instalado.
 Opcao: 1
 
 -- Novo Cadastro --
+
 Genero (M/F/O): M
 Idade: 28
 Necessidade especial? (S/N): N
@@ -35,6 +36,7 @@ Senha gerada: N001 (Normal)
 Opcao: 1
 
 -- Novo Cadastro --
+
 Genero (M/F/O): F
 Idade: 25
 Gestante? (S/N): S
@@ -47,6 +49,7 @@ Senha gerada: P001 (Preferencial)
 Opcao: 1
 
 -- Novo Cadastro --
+
 Genero (M/F/O): M
 Idade: 67
 Necessidade especial? (S/N): N
@@ -57,6 +60,7 @@ Senha gerada: P002 (Preferencial)
 Opcao: 1
 
 -- Novo Cadastro --
+
 Genero (M/F/O): F
 Idade: 84
 Gestante? (S/N): N
