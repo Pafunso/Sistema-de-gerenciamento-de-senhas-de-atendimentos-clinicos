@@ -78,11 +78,11 @@ Chamando senha: U001 (Urgente)
 
 Opcao: 5
 
------ PAINEL DE CHAMADA -----
+PAINEL DE CHAMADA 
 Em atendimento: U001 (Urgente)
 Proximas senhas: P001 P002 N001 
 Em espera -> Urgente: 0 | Preferencial: 2 | Normal: 1
------------------------------
+
 
 # Exemplo 3:
 
