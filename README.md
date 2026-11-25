@@ -78,7 +78,7 @@ Chamando senha: U001 (Urgente)
 
 Opcao: 5
 
-PAINEL DE CHAMADA 
+-- PAINEL DE CHAMADA --
 Em atendimento: U001 (Urgente)
 Proximas senhas: P001 P002 N001 
 Em espera -> Urgente: 0 | Preferencial: 2 | Normal: 1
@@ -101,11 +101,11 @@ Chamando senha: P001 (Preferencial)
 
 Opcao: 5
 
------ PAINEL DE CHAMADA -----
+-- PAINEL DE CHAMADA --
 Em atendimento: P001 (Preferencial)
 Proximas senhas: P002 N001 
 Em espera -> Urgente: 0 | Preferencial: 1 | Normal: 1
------------------------------
+
 
 ```bash
 gcc -Wall -Wextra -o sistema_senhas main.c
